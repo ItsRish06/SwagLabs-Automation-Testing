@@ -21,5 +21,11 @@ Automation testing of [SwagLabs](https://www.saucedemo.com/) is done using Selen
 
 Repots are generated using Extent Reporting Framework.
 
-### ![Login Report](./reports/swagLabsTestReport-Login.html)
+### [Login Report](./reports/swagLabsTestReport-Login.html)
+![Login report](./reports/SwagLabs-Login.png)
 
+### [Cart Report](./reports/swagLabsTestReport-Cart.html)
+![Cart report](./reports/SwagLabs-Cart.png)
+
+### [Checkout Report](./reports/swagLabsTestReport-Checkout.html)
+![Checkout report](./reports/SwagLabs-Checkout.png)
