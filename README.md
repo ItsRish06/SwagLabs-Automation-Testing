@@ -2,7 +2,7 @@
 
 Automation testing of [SwagLabs](https://www.saucedemo.com/) is done using Selenium .[SwagLabs](https://www.saucedemo.com/) is a demo ecommerce website.
 
-##Functionalies tested :
+## Functionalities tested :
 
  - Login 
     - Login with correct credentials.
@@ -17,8 +17,9 @@ Automation testing of [SwagLabs](https://www.saucedemo.com/) is done using Selen
     - Validating total checkout cost by adding 8% tax .
     - Verifyng if checkout fails when no item is added to cart.
 
-##Reports
+## Reports
 
 Repots are generated using Extent Reporting Framework.
 
-###Login Report
+### ![Login Report](./reports/swagLabsTestReport-Login.html)
+
