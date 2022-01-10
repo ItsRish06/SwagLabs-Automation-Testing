@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" name="SwagLabs Test Suite">
+    <test preserve-order="true" name="Swag Labs Tests">
+        <parameter name="correct_username" value="standard_user"></parameter>
+        <parameter name="correct_password" value="secret_sauce"></parameter>
+        <parameter name="incorrect_username" value="admin"></parameter>
+        <parameter name="incorrect_password" value="admin123"></parameter>
+        <classes>
+            <class name="com.swagLabs.tests.LoginTest" />
+            <class name="com.swagLabs.tests.CartTest" />
+            <class name="com.swagLabs.tests.CheckoutTest"></class>
+        </classes>
+    </test>
+
+</suite>
+
