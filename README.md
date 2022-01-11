@@ -25,7 +25,7 @@ Each webpage of application is considered as a class file. It is useful in reduc
 
 ## Reports
 
-Repots are generated using Extent Reporting Framework.
+Reports are generated using Extent Reporting Framework.
 
 ### [Login Report](./reports/swagLabsTestReport-Login.html)
 ![Login report](./reports/SwagLabs-Login.png)
