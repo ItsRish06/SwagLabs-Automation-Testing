@@ -1,6 +1,6 @@
 # SwagLabs Automation Testing
 
-Automation testing of [SwagLabs](https://www.saucedemo.com/) done using Selenium .[SwagLabs](https://www.saucedemo.com/) is a demo ecommerce website.
+Automation testing of [SwagLabs](https://www.saucedemo.com/) is done using Selenium .[SwagLabs](https://www.saucedemo.com/) is a demo ecommerce website.
 TDD(Test Driven Development) approach is used and unit tests are written using TestNG which is a automation testing framework.
 
 Page Object Model, also known as POM, is used in this project. POM is a design pattern in Selenium that creates an object repository for storing all web elements. 
